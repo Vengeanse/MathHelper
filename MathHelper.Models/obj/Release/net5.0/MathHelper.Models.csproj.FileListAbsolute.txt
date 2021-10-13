@@ -1,0 +1,12 @@
+D:\Work\Itransition\MathHelper\MathHelper.Models\bin\Release\net5.0\MathHelper.Models.deps.json
+D:\Work\Itransition\MathHelper\MathHelper.Models\bin\Release\net5.0\MathHelper.Models.dll
+D:\Work\Itransition\MathHelper\MathHelper.Models\bin\Release\net5.0\ref\MathHelper.Models.dll
+D:\Work\Itransition\MathHelper\MathHelper.Models\bin\Release\net5.0\MathHelper.Models.pdb
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.csproj.AssemblyReference.cache
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.AssemblyInfoInputs.cache
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.AssemblyInfo.cs
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.csproj.CoreCompileInputs.cache
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.dll
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\ref\MathHelper.Models.dll
+D:\Work\Itransition\MathHelper\MathHelper.Models\obj\Release\net5.0\MathHelper.Models.pdb

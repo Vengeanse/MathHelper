@@ -1,0 +1,15 @@
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\MathHelper.Services.deps.json
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\MathHelper.Services.dll
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\ref\MathHelper.Services.dll
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\MathHelper.Services.pdb
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\MathHelper.Models.dll
+D:\Work\Itransition\MathHelper\MathHelper.Services\bin\Release\net5.0\MathHelper.Models.pdb
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.csproj.AssemblyReference.cache
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.AssemblyInfoInputs.cache
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.AssemblyInfo.cs
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.csproj.CoreCompileInputs.cache
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.csproj.CopyComplete
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.dll
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\ref\MathHelper.Services.dll
+D:\Work\Itransition\MathHelper\MathHelper.Services\obj\Release\net5.0\MathHelper.Services.pdb
